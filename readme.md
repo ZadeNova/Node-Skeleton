@@ -2,7 +2,7 @@
 
 This github repo stores a Node Js template for my own purposes.
 
-### Packages installed?
+### Packages installed
 
 - Nodemon
 - Express
